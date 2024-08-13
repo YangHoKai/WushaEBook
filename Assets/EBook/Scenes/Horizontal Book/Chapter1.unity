@@ -206,7 +206,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 403633911}
   m_Direction: 0
   m_Value: 1
-  m_Size: 0.06270381
+  m_Size: 0.062751055
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1152,7 +1152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cfcce0af3af5ec4a91d8e7d28d6ebc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: {fileID: 0}
+  text1: {fileID: 6918218317906668911}
   txt: {fileID: 4900000, guid: 9e3853b105972e04185818f00da5f36e, type: 3}
   Row: 74
 --- !u!4 &823838987
