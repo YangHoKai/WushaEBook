@@ -701,6 +701,22 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 036203302b34a9d4d8cd4bfa55416bda, type: 3}
+    - target: {fileID: 2969360256542316755, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: StartX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969360256542316755, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: Content
+      value: 
+      objectReference: {fileID: 348831370}
+    - target: {fileID: 5253186028612866261, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5253186028612866261, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5954768565431620453, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1098,6 +1114,30 @@ PrefabInstance:
     - target: {fileID: 4806392445597606184, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
       propertyPath: chapernum
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

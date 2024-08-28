@@ -1793,6 +1793,30 @@ PrefabInstance:
       propertyPath: chapernum
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

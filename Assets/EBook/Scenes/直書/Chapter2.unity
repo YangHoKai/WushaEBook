@@ -305,6 +305,30 @@ PrefabInstance:
       propertyPath: chapernum
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756259594416641602, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617483188891614961, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172629519639447756, guid: 3a06234a7316fc943be796b9e92ef0a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1094,6 +1118,18 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: f9272f5449013e34f99419fafa488a9b, type: 3}
+    - target: {fileID: 2969360256542316755, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: StartX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969360256542316755, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: Content
+      value: 
+      objectReference: {fileID: 348831370}
+    - target: {fileID: 2969360256542316755, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
+      propertyPath: AddCount
+      value: 0.053
+      objectReference: {fileID: 0}
     - target: {fileID: 5954768565431620453, guid: 8efa82030216e1e4aa8e9e6ca9fb68a7, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

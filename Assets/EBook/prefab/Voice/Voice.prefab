@@ -55,6 +55,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayButton: {fileID: 1604231201812592325}
   PauseButton: {fileID: 8543897559427131497}
+  Content: {fileID: 0}
+  PlayVoice: 0
+  InitialCount: 0
+  AddCount: 0.053
 --- !u!1 &527615607781301836
 GameObject:
   m_ObjectHideFlags: 0
@@ -492,6 +496,18 @@ MonoBehaviour:
       - m_Target: {fileID: 2969360256542316755}
         m_TargetAssemblyTypeName: Voice, Assembly-CSharp
         m_MethodName: ClosePauseButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2969360256542316755}
+        m_TargetAssemblyTypeName: Voice, Assembly-CSharp
+        m_MethodName: ChapterStop
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
